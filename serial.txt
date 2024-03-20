@@ -1,3 +1,0 @@
-/dev/serial/by-id/usb-Klipper_stm32f446xx_33000E000750534E4E313020-if00
-
-canbus_uuid=3367528cec0f
