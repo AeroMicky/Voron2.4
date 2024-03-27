@@ -97,7 +97,7 @@ info_tags =
 	primary_branch: main
 
 [mmu_server]
-enable_file_preprocessor = False
+enable_file_preprocessor = True
 
 [update_manager led_effect]
 type = git_repo
